@@ -1,0 +1,7 @@
+{
+  "name": "browserSample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
