@@ -1,2 +1,1 @@
-# CampaignManagerMobile
-Campaign Manager Mobile Client
+# Campaign Manager Mobile Client
